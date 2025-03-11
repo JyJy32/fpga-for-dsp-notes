@@ -14,3 +14,14 @@ de periode is de <ins>lengte in tijd</ins> dat een periodische beweging of golf 
 doet over een herhaling
 
 #### $T = \frac{1}{f}$
+
+## square wave
+### $x(t) = \frac{4}{\pi}\sum_{k=1}^{\infty}\frac{1}{2k-1}sin(2\pi(2k - 1)t)$
+
+
+
+
+
+
+
+
