@@ -19,9 +19,17 @@ doet over een herhaling
 ### $x(t) = \frac{4}{\pi}\sum_{k=1}^{\infty}\frac{1}{2k-1}sin(2\pi(2k - 1)t)$
 
 
+## harmonische
+A square wave with amplitude AA and frequency ff can be expressed as an infinite sum of sine waves (its harmonics) using the Fourier series:
 
+x(t)=4Aπ∑n=1,3,5,…∞sin⁡(2πnft)nx(t)=π4A​n=1,3,5,…∑∞​nsin(2πnft)​
 
+This means a square wave consists of **odd harmonics** (1st, 3rd, 5th, ...), where:
 
-
+- The **1st harmonic** (fundamental frequency) is sin⁡(2πft)sin(2πft),
+    
+- The **3rd harmonic** is sin⁡(6πft)33sin(6πft)​,
+    
+- The **5th harmonic** is sin⁡(10πft)55sin(10πft)​, and so on.
 
 
