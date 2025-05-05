@@ -15,6 +15,24 @@ doet over een herhaling
 
 #### $T = \frac{1}{f}$
 
+## tweedegraads vergelijking
+
+### $y = a * x^2 + b * x + c$
+
+### $a,b,c \in \!R$
+
+Om de nulpunten te berekenen moet je eerste de discriminant bepalen
+
+### $D = b^2 - 4ac$
+
+als D gelijk is aan 0 is eer maar 1 nulpunt 
+als D groter is dan 0 zijn er 2 nulpunten
+
+nulpunten:
+
+### $x_{i} = \frac{-b \pm \sqrt{D}}{2a}$
+
+
 ## square wave
 ### $x(t) = \frac{4}{\pi}\sum_{k=1}^{\infty}\frac{1}{2k-1}sin(2\pi(2k - 1)t)$
 
